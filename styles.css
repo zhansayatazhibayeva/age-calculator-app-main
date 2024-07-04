@@ -73,6 +73,11 @@ input:focus{
     top: 60px;
 }
 
+
+.submit-btn:hover {
+    background-color: black;
+  }
+
 .input-container{
     display: flex;
     flex-direction: column;
